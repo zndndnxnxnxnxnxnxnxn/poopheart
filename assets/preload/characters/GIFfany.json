@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GIFfany GIFfany Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GIFfany GIFfany UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GIFfany GIFfany RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GIFfany GIFfany LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GIFfany GIFfany DOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/GIFfany",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "gif-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		244,
+		63,
+		134
+	],
+	"camera_position": [
+		-300,
+		-420
+	],
+	"sing_duration": 4,
+	"scale": 6
+}
