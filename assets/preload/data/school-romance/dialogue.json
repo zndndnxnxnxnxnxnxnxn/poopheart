@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "placeholder"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "placeholder"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "placeholder"
+		},
+		{
+			"expression": "happy",
+			"text": "Boyfriend!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gif-pixel"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-pixel"
+		},
+		{
+			"expression": "talk",
+			"text": "Let’s be together...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gif-pixel"
+		},
+		{
+			"expression": "happy",
+			"text": "FOREVER!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gif-pixel"
+		},
+		{
+			"expression": "happy",
+			"text": "Just you and me, for all eternity.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gif-pixel"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-pixel"
+		},
+		{
+			"expression": "flush",
+			"text": "I'll do anything to get your heart BF,\\nanything...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gif-pixel"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-pixel"
+		},
+		{
+			"expression": "happy",
+			"text": "Well then, let’s begin! ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gif-pixel"
+		}
+	]
+}
