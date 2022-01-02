@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gifPortraits.png"><SubTexture name="gif loop0000" x="0" y="0" width="1264" height="648" frameX="0" frameY="0" frameWidth="1264" frameHeight="648" />
+
+<SubTexture name="gif happy0000" x="1264" y="0" width="1264" height="648" frameX="0" frameY="0" frameWidth="1264" frameHeight="648" />
+
+<SubTexture name="gif flush0000" x="0" y="648" width="1264" height="648" frameX="0" frameY="0" frameWidth="1264" frameHeight="648" />
+</TextureAtlas>
